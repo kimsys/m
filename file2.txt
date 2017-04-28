@@ -2,8 +2,6 @@ change
 
 file2 changes preview
 
-123
-
 file name
 
 345
