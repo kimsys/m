@@ -1,1 +1,8 @@
-javascript file add
+//javascript file add
+
+
+function test(){
+	
+	alert('a');
+	
+}
