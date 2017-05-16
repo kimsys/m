@@ -7,3 +7,7 @@ function test1(){
   alert(23);
 }
 
+function test1(){
+	alert(1);
+}
+
