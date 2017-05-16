@@ -4,6 +4,6 @@ function test(){
 }
 
 function test1(){
-  alert(2);
+  alert(23);
 }
 
